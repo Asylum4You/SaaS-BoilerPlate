@@ -26,7 +26,7 @@
     "highlight.js": "^10.5.0",
     "lodash": "^4.17.20",
     "marked": "^4.0.16",
-    "mongoose": "^6.3.5",
+    "mongoose": "^6.4.6",
     "node-fetch": "^2.6.1",
     "passport": "^0.6.0",
     "passport-google-oauth": "^2.0.0",
